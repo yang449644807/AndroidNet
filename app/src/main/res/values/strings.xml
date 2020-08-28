@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android_hexintong_merchants</string>
+
+    <!--net-->
+    <string name="internet_error">网络异常,请检查网络设置</string>
+    <string name="retry_after">网络异常,请稍后重试</string>
+    <string name="load_error">加载失败,请稍后重试</string>
+    <string name="loading">正在加载中...</string>
+
+
+</resources>
